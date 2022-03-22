@@ -1,0 +1,21 @@
+Hello every one.
+
+I have a lot of fun to use Git:
+
+Git: is a version control system. It keeps tracking versions when any changes are made. Git is all about changes.
+
+GitHub: is a platform where you can host any folders to remote repositories.
+
+Local repository: it's just a folder to keep track of changes locally, on each device.
+
+Remote repository: it's a folder online that keeps track of changes, but also can have changes of others.
+
+un-versioned: not being kept track of file.
+
+commit: means saved my changes to my local repository.
+
+
+
+
+
+
