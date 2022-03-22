@@ -11,3 +11,5 @@ Local repository: it's just a folder to keep track of changes locally, on each d
 Remote repository: it's a folder online that keeps track of changes, but also can have changes of others.
 
 un-versioned: not being kept track of file.
+
+commit: means saved my changes to my local repository.
